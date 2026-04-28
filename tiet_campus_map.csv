@@ -1,0 +1,49 @@
+source,destination,distance
+Western Gate,Neeram Hall,281
+Neeram Hall,Prithvi Hall,70
+Prithvi Hall,Vyom Hall,70
+Vyom Hall,Amritam Hall,80
+Amritam Hall,Vahni Hall,180
+Vahni Hall,Street,142
+Street,Auditorium,210
+Auditorium,Main Gate,180
+Western Gate,Anantam Hall,174
+Anantam Hall,Tejas Hall,150
+Tejas Hall,Vyan Hall,50
+Vyan Hall,KRAVINGS,170
+KRAVINGS,Library,241
+Library,Mechanical Dept,114
+Mechanical Dept,Venture Lab,136
+Venture Lab,TSLAS Gate,186
+Polytechnic Gate,Ambaram Hall,214
+Ambaram Hall,Viyat Hall,190
+Viyat Hall,Staff Quarters,100
+Staff Quarters,Central Park,509
+Central Park,KRAVINGS,42
+KRAVINGS,Vahni Hall,194
+Library,LT,64
+LT,CSED,90
+CSED,TSLAS,269
+Main Gate,B-Block,308
+B-Block,D-Block,40
+D-Block,C-Block,30
+C-Block,E-Block,80
+E-Block,F-Block,70
+F-Block,Mechanical Dept,30
+C-Block,Library,76
+B-Block,Directorate,89
+Directorate,Main Gate,220
+KRAVINGS,Ananta Hall,174
+Ananta Hall,Vasudha Hall G,100
+Vasudha Hall G,Vasudha Hall E,130
+Vasudha Hall E,Ira Hall,44
+Ira Hall,Health Centre,161
+Health Centre,Library,223
+Polytechnic Gate,Cricket Field,344
+Cricket Field,OAT,178
+OAT,COS Complex,28
+COS Complex,Western Gate,264
+G-Block,Library,134
+G-Block,C-Block,102
+G-Block,SBI Bank,128
+SBI Bank,Library,141
