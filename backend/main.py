@@ -79,9 +79,9 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Load data from the CSV file (located in the root as requested)
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DATA_PATH = os.path.join(BASE_DIR, "tiet_campus_map.csv")
+# Load data from the CSV file (Separated in backend/data)
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_PATH = os.path.join(BASE_DIR, "data", "tiet_campus_map.csv")
 graph = build_graph(DATA_PATH)
 
 @app.get("/locations")
